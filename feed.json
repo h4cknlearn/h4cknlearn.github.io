@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "hacknlearn",
+    "home_page_url": "/Gesko/",
+    "feed_url": "/Gesko/feed.json",
+    "description": "low level club",
+    "icon": "/Gesko/apple-touch-icon.png",
+    "favicon": "/Gesko/favicon.ico",
+    "expired": false,
+    
+    "author":  {
+        "name": "hacknlearn",
+        "url": null,
+        "avatar": null
+    },
+    
+"items": [
+    
+    ]
+}
